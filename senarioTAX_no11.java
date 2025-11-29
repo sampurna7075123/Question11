@@ -11,7 +11,7 @@ public class senarioTAX_no11
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter your income: ");
+        System.out.print("Enter your current income - ");
         int income = sc.nextInt();
         int tax = 0;
 
